@@ -1,0 +1,7 @@
+tests/node_modules/
+tests/out/
+dist/
+
+# Personal notes, not for the public repo
+BUY-ME-A-COFFEE.md
+TANITIM-TASLAKLARI.md
